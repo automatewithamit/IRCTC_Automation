@@ -1,0 +1,10 @@
+<suite name="IRCTC Automation Suite" parallel="methods" thread-count="4">
+
+    <test name="IRCTC Tests">
+        <classes>
+
+            <!-- Add more classes as needed -->
+        </classes>
+    </test>
+
+</suite>
